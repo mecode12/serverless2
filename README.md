@@ -2,6 +2,7 @@
 
 ## Frontend (ui)
 
+update API_URL in src/utils.js<br>
 deploy to aws amplify
 
 ## backend (api)
